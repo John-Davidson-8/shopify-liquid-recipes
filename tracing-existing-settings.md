@@ -1,6 +1,4 @@
 # Tracing an Existing Theme Setting
-...(paste the rest of the draft content here)...
-# Tracing an Existing Theme Setting
 
 Not every client request needs new code. Many "add a setting" requests are
 already built into the theme — the real skill is proving it, fast, before
